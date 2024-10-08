@@ -26,9 +26,9 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">The Lost Continent</dc:title>
-		<meta property="file-as" refines="#title">Lost Continent, The</meta>
-		<meta property="dcterms:alternative" refines="#title">Beyond Thirty</meta>
+		<dc:title id="title">Beyond Thirty</dc:title>
+		<meta property="file-as" refines="#title">Beyond Thirty</meta>
+		<meta property="dcterms:alternative" refines="#title">The Lost Continent</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-3">England -- Fiction</dc:subject>
