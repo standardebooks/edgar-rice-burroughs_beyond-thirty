@@ -54,7 +54,7 @@
 		<dc:source>https://archive.org/details/lostcontinent0000edga/</dc:source>
 		<meta property="se:word-count">38047</meta>
 		<meta property="se:reading-ease.flesch">67.59</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Lost_Continent</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Beyond_Thirty</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_beyond-thirty</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
 		<meta property="file-as" refines="#author">Burroughs, Edgar Rice</meta>
