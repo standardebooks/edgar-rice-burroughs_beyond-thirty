@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-10-09T22:03:09Z</dc:date>
+		<meta property="dcterms:modified">2024-10-09T22:03:09Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,19 +42,18 @@
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">A young naval officer finds himself in a forbidden part of the world after storms waylay his warworn ship.</dc:description>
+		<dc:description id="description">A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Lieutenant Jefferson Turck is a naval officer from Pan-America, the unified supercontinent and dominant world power of the 22nd Century. Though he is only twenty-one, he is greatly respected by the crew of the aero-submarine &lt;i&gt;Coldwater&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;Coming from a long line of soldiers and sailors, Turck longs for adventure. But in the year 2137, such exploration outside of the Pan-American regions is forbidden. Merely crossing beyond a line on a map is considered treason punishable by death. The globe between 30° W. and 175° W. is a mystery except for tall tales and ancient histories.&lt;/p&gt;
-			&lt;p&gt;When equipment failures befall the &lt;i&gt;Coldwater&lt;/i&gt; the ship veers dangerously close to the “dead line.” Violent storms worsen the situation, and tensions rise as some sailors fear danger on the other side or punishment from their own government. In the midst of it all, Turck feels only a sense of excitement–what lies beyond thirty?&lt;/p&gt;
+			&lt;p&gt;When equipment failures befall the &lt;i&gt;Coldwater&lt;/i&gt; the ship veers dangerously close to the “dead line.” Violent storms worsen the situation, and tensions rise as some sailors fear danger on the other side or punishment from their own government. In the midst of it all, Turck feels only a sense of excitement—what lies beyond thirty?&lt;/p&gt;
 			&lt;p&gt;The ship’s captain and a small complement of sailors set out to find help anywhere they can, and end up in a land that is far from what they expected.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/149</dc:source>
 		<dc:source>https://archive.org/details/lostcontinent0000edga/</dc:source>
-		<meta property="se:production-notes">Several transcription errors in the Gutenberg text were corrected according to page scans sourced from the Internet Archive. Minimal editorial changes were made to the source text.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">38047</meta>
+		<meta property="se:reading-ease.flesch">67.59</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Lost_Continent</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_beyond-thirty</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
@@ -78,6 +77,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
