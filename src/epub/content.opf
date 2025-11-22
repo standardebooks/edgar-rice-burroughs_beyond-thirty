@@ -30,7 +30,7 @@
 		<dc:title id="title">Beyond Thirty</dc:title>
 		<meta property="file-as" refines="#title">Beyond Thirty</meta>
 		<meta property="dcterms:alternative" refines="#title">The Lost Continent</meta>
-		<meta property="dcterms:alternate" refines="#title">Beyond 30</meta>
+		<meta property="dcterms:alternative" refines="#title">Beyond 30</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-3">England -- Fiction</dc:subject>
