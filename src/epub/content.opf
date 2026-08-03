@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty</dc:identifier>
 		<dc:date>2024-10-09T22:03:09Z</dc:date>
@@ -44,13 +44,13 @@
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fantasy</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:description id="description">A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young naval officer finds himself in a forbidden part of the world after storms waylay his ship.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Lieutenant Jefferson Turck is a naval officer from Pan-America, the unified supercontinent and dominant world power of the 22nd Century. Though he is only twenty-one, he is greatly respected by the crew of the aero-submarine &lt;i&gt;Coldwater&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;Coming from a long line of soldiers and sailors, Turck longs for adventure. But in the year 2137, such exploration outside of the Pan-American regions is forbidden. Merely crossing beyond a line on a map is considered treason punishable by death. The globe between 30° W. and 175° W. is a mystery except for tall tales and ancient histories.&lt;/p&gt;
 			&lt;p&gt;When equipment failures befall the &lt;i&gt;Coldwater&lt;/i&gt; the ship veers dangerously close to the “dead line.” Violent storms worsen the situation, and tensions rise as some sailors fear danger on the other side or punishment from their own government. In the midst of it all, Turck feels only a sense of excitement—what lies beyond thirty?&lt;/p&gt;
 			&lt;p&gt;The ship’s captain and a small complement of sailors set out to find help anywhere they can, and end up in a land that is far from what they expected.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/149</dc:source>
 		<dc:source>https://archive.org/details/lostcontinent0000edga</dc:source>
